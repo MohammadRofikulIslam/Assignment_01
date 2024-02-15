@@ -21,7 +21,6 @@
 }
 .bannerText {
   padding: 225px 0;
-  position: fixed;
   background-color: rgba(0, 0, 0, 0.5);
   border-radius: 16px;
 }
@@ -33,4 +32,26 @@
 .bannerText h1 {
   font-size: xxx-large;
   font-weight: 700;
+}
+
+.allCategoryDiscount {
+  text-align: center;
+  margin-bottom: 40px;
+}
+
+.allCategoryDiscount h2 {
+  color: #f00;
+  font-size: xxx-large;
+}
+.allCategoryDiscount p {
+  color: #f00;
+  font-size: ;
+  margin: 20px 0;
+}
+.allCategoryDiscount h3 {
+  font-size: x-large;
+  margin-bottom: 40px;
+}
+.allCategoryDiscount img {
+  width: 60%;
 }
