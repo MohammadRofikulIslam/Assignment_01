@@ -10,7 +10,6 @@
 
 #banner {
   background-image: url(../images/Banner\ Image.png);
-  opacity: ;
   height: 600px;
   width: auto;
   color: white;
@@ -54,4 +53,53 @@
 }
 .allCategoryDiscount img {
   width: 60%;
+}
+.party {
+  background-image: url(../images/Vectorrr.png);
+  height: 600px;
+  width: auto;
+  color: white;
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin-bottom: 40px;
+}
+
+.partyContent {
+  height: 500px;
+  width: 100%;
+  padding: 40px;
+  display: flex;
+  flex: 1 1;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.party_text {
+  width: 40%;
+}
+
+.party_img {
+  width: 30%;
+}
+
+.partyContent h3 {
+  font-size: xxx-large;
+}
+
+.partyContent p {
+  padding: 20px 0;
+}
+
+.partyContent button {
+  width: auto;
+  padding: 10px;
+  background-color: transparent;
+  border: 2px solid white;
+  color: white;
+}
+.partyContent button :hover {
+  background-color: #f00;
+}
+.partyContent img {
+  width: 320px;
 }
