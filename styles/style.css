@@ -287,3 +287,42 @@ p {
 .subscribe p {
   margin: 0px 0;
 }
+footer {
+  height: 300px;
+  width: fit-content;
+  color: white;
+  background-color: black;
+}
+.footer_row1 > div {
+  margin-bottom: 20px;
+  width: 300px;
+}
+.footer_row1 {
+  display: flex;
+  justify-content: center;
+  padding-top: 60px;
+}
+hr {
+  width: 80%;
+}
+.footer_row2 {
+  width: 20%;
+  display: flex;
+  justify-content: center;
+  margin-left: 550px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.footer_row2 img {
+  width: 50px;
+}
+.footer_row3 {
+  display: flex;
+  justify-content: center;
+  margin-top: 40px;
+}
+
+.footer_row3 p {
+  margin-bottom: 20px;
+  width: 300px;
+}
